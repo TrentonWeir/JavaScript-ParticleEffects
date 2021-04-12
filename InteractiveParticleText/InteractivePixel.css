@@ -1,0 +1,16 @@
+body{
+  overflow: hidden;
+  background: black;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.canvas1{
+  top:0;
+  position: absolute;
+  left: 0;
+}
